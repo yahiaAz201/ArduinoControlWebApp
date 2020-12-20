@@ -13,6 +13,6 @@ use potentiometer that plug in arduino to change element of html property value 
 ![GitHub Logo](/image/page.png)
 # this is The Api :
 ![GitHub Logo](/image/api.png)
-<img src="/image/api.png" width="300" height="150">&nbsp;&nbsp;&nbsp;<img src="/image/api.png" width="300" height="150">
+<img src="/image/api.png" width="300" height="150">&nbsp;&nbsp;&nbsp;<img src="/image/api.png" width="300" height="150">&nbsp;&nbsp;&nbsp;<img src="/image/api.png" width="300" height="150">
 
 
