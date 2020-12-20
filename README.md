@@ -7,5 +7,6 @@ use potentiometer that plug in arduino to change element of html property value 
 
 
 ![GitHub Logo](/image/arduinoCpde.png)
+![GitHub Logo](/image/*)
 
 
