@@ -13,9 +13,9 @@ use potentiometer that plug in arduino to change element of html property value 
 ![GitHub Logo](/image/page.png)
 # this is The Api :
 ![GitHub Logo](/image/api.png)
-
+# CODE[s]
 <img src="/image/1RestAPi.png" width="450" height="210">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/image/2arduinoWriter.png"  width="450" height="210"><br>
 
-<img src="/image/jsScript.png"  width="450" height="210"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/image/index.png"  width="450" height="210">
+<img src="/image/jsScript.png"  width="450" height="210">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/image/index.png"  width="450" height="210">
 
 
